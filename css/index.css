@@ -62,7 +62,21 @@ div{
 		padding-right: 6px;
 }
 
-/* shake animation from http://elrumordelaluz.github.io/csshake/ */
+.fade{
+  opacity: 0.5;
+  transition: opacity .25s ease-in-out;
+  -moz-transition: opacity .25s ease-in-out;
+  -o-transition: opacity .25s ease-in-out;
+  -ms-transition: opacity .25s ease-in-out;
+  -webkit-transition: opacity .25s ease-in-out;
+}
+
+.fade:hover{
+    opacity: 1;
+}
+
+/* Thank you elrumordelaluz for shake code
+shake animation from http://elrumordelaluz.github.io/csshake/ */
 
 .shake.shake-slow:hover {
 	-webkit-animation-name: shake-slow;
