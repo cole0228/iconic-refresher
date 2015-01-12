@@ -38,7 +38,7 @@ h1{
 
 p{
 	font-family: 'Raleway', sans-serif;
-	font-weight: 400;
+	font-weight: 300;
 	color: #fff;
 	letter-spacing: 4.5px;
 	text-align: center;
@@ -52,13 +52,14 @@ p{
 }
 
 div{
+		width: 25em;
 		border-color: #3d535c;
 		border-left-style: solid;
 		border-left-width: 5px;
 		border-right-style: solid;
 		border-right-width: 5px;
-		padding-left: 2px;
-		padding-right: 2px;
+		padding-left: 6px;
+		padding-right: 6px;
 }
 
 /* shake animation from http://elrumordelaluz.github.io/csshake/ */
