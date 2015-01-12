@@ -22,9 +22,15 @@ body{
 	margin-left: 35%;
 	margin-right: 35%;
 	background-color: #028482;
+	font-family: sans-serif;
+	font-weight: 100;
 }
 
 h1{
+	color: #fff;
+}
+
+p{
 	color: #fff;
 }
 
