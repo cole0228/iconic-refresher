@@ -26,6 +26,10 @@ body{
 	font-weight: 100;
 }
 
+.red{
+	background-color: #660000;
+}
+
 h1{
 	color: #fff;
 }
