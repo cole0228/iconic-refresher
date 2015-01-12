@@ -50,6 +50,16 @@ p{
 	margin-left: 5%;
 }
 
+div{
+		border-color: #3d535c;
+		border-left-style: solid;
+		border-left-width: 5px;
+		border-right-style: solid;
+		border-right-width: 5px;
+		padding-left: 2px;
+		padding-right: 2px;
+}
+
 /* shake animation from http://elrumordelaluz.github.io/csshake/ */
 
 .shake.shake-slow:hover {
