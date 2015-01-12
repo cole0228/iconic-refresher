@@ -20,7 +20,6 @@ html {
 body{
 	margin-top: 15%;
 	margin-left: 35%;
-	margin-right: 35%;
 	background-color: #028482;
 }
 
@@ -52,7 +51,8 @@ p{
 }
 
 div{
-		width: 25em;
+		width: 50%;
+		min-width: 17em;
 		border-color: #3d535c;
 		border-left-style: solid;
 		border-left-width: 5px;
